@@ -5,3 +5,7 @@ function sub(){
 function mul(){
     return a*b
 }
+
+function addData(){
+    return a+b
+}
